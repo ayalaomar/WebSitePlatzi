@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\platzi\\asp-net\\web-app\\PlatziWebSite\\PlatziWebSite.csproj": {}
+    "C:\\platzi\\asp-net\\web-app\\websiteplatzi\\platziwebsite\\PlatziWebSite.csproj": {}
   },
   "projects": {
-    "C:\\platzi\\asp-net\\web-app\\PlatziWebSite\\PlatziWebSite.csproj": {
+    "C:\\platzi\\asp-net\\web-app\\websiteplatzi\\platziwebsite\\PlatziWebSite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\platzi\\asp-net\\web-app\\PlatziWebSite\\PlatziWebSite.csproj",
+        "projectUniqueName": "C:\\platzi\\asp-net\\web-app\\websiteplatzi\\platziwebsite\\PlatziWebSite.csproj",
         "projectName": "PlatziWebSite",
-        "projectPath": "C:\\platzi\\asp-net\\web-app\\PlatziWebSite\\PlatziWebSite.csproj",
+        "projectPath": "C:\\platzi\\asp-net\\web-app\\websiteplatzi\\platziwebsite\\PlatziWebSite.csproj",
         "packagesPath": "C:\\Users\\OmarA\\.nuget\\packages\\",
-        "outputPath": "C:\\platzi\\asp-net\\web-app\\PlatziWebSite\\obj\\",
+        "outputPath": "C:\\platzi\\asp-net\\web-app\\websiteplatzi\\platziwebsite\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

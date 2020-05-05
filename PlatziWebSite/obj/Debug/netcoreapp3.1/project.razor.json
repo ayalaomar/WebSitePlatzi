@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\platzi\\asp-net\\web-app\\PlatziWebSite\\PlatziWebSite.csproj",
+  "FilePath": "c:\\platzi\\asp-net\\web-app\\WebSitePlatzi\\PlatziWebSite\\PlatziWebSite.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -20521,38 +20521,38 @@
   "RootNamespace": "PlatziWebSite",
   "Documents": [
     {
-      "FilePath": "c:\\platzi\\asp-net\\web-app\\PlatziWebSite\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\platzi\\asp-net\\web-app\\PlatziWebSite\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\platzi\\asp-net\\web-app\\PlatziWebSite\\Views\\_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\platzi\\asp-net\\web-app\\PlatziWebSite\\Views\\_ViewImports.cshtml",
+      "FilePath": "c:\\platzi\\asp-net\\web-app\\WebSitePlatzi\\PlatziWebSite\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\platzi\\asp-net\\web-app\\PlatziWebSite\\Views\\Shared\\_Layout.cshtml",
+      "FilePath": "c:\\platzi\\asp-net\\web-app\\WebSitePlatzi\\PlatziWebSite\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\platzi\\asp-net\\web-app\\WebSitePlatzi\\PlatziWebSite\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\platzi\\asp-net\\web-app\\PlatziWebSite\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "c:\\platzi\\asp-net\\web-app\\WebSitePlatzi\\PlatziWebSite\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\platzi\\asp-net\\web-app\\WebSitePlatzi\\PlatziWebSite\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\platzi\\asp-net\\web-app\\PlatziWebSite\\Views\\Shared\\Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FilePath": "c:\\platzi\\asp-net\\web-app\\WebSitePlatzi\\PlatziWebSite\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\platzi\\asp-net\\web-app\\WebSitePlatzi\\PlatziWebSite\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     }
   ],

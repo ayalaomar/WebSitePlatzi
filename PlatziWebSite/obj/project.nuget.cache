@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GoIDTNuEew6/9S8/3qpM/XK4vX8DLfvzfos1hsE0Qd3Nuf4RUsvHMtu8qOXnSPTIfuguVR0/C2o+DiS86Q2Mgg==",
+  "dgSpecHash": "+2bj78L4ArfK0ac4h38WZUmx0wZmIwR/tvH0w29TG34UVHAvtWYBdBL9rN9xl3YecejdONmrhiKOAhoO6YTvHw==",
   "success": true,
-  "projectFilePath": "C:\\platzi\\asp-net\\web-app\\PlatziWebSite\\PlatziWebSite.csproj",
+  "projectFilePath": "C:\\platzi\\asp-net\\web-app\\websiteplatzi\\platziwebsite\\PlatziWebSite.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
